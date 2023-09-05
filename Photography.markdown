@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Photography"
-permalink: https://luhangsnn.github.io/photo
+title: Photography
+permalink: /photo/
 ---
 
 WIP!
